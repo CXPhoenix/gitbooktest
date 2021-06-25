@@ -1,4 +1,7 @@
 {
+    "author": "CXPhoenix <jate9229@gmail.com>",
+    "description": "It's just a test gitbook",
+    "title":"GITBOOK TEST",
     "plugins": [  "anchor-navigation-ex", "edit-link", "copy-code-button", "theme-comscore", "ga" ],
     "pluginsConfig": {
       "fontSettings": {
