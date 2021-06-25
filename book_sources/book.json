@@ -33,8 +33,8 @@
           }
       },
       "edit-link": {
-        "base": "https://github.com/<你的 GitHub 帳號>/demo-build-and-publish-gitbook/edit/master/",
-        "label": "Edit This Page"
+        "base": "https://github.com/cxphoenix/gitbooktest/edit/master/",
+        "label": "⚒ Edit This Page"
       },
       "ga": {
         "token": ""
